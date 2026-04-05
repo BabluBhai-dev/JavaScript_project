@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #e0f2fe;
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 40px;
+}
