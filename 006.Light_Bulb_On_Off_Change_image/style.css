@@ -1,0 +1,26 @@
+body{
+  text-align:center;
+  font-family: Arial;
+  margin-top:50px;
+  background:#111;
+  color:white;
+}
+
+img{
+  width:150px;
+  transition:0.3s;
+}
+
+button{
+  margin-top:20px;
+  padding:10px 20px;
+  font-size:16px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+  background:yellow;
+}
+
+button:hover{
+  background:orange;
+}
