@@ -6,11 +6,11 @@ let isOn = false;
 
 btns.addEventListener("click", function(){
     if(isOn === false){
-        bulb.src = "bulb-on.jpg";
+        bulb.src = "Image/bulb-on.jpg";
         btns.innerHTML = "Turn OFF";
         isOn = true;
     }else{
-        bulb.src = "bulb-off.png";
+        bulb.src = "Image/bulb-off.jpg";
         btns.innerHTML = "Turn ON";
         isOn = false;
     }
